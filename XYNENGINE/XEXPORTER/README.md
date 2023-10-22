@@ -1,1 +1,1 @@
-3DS MAX 9 (?) Exporter for XYN files
+Xynapse3 3DSMAX9 Exporter
