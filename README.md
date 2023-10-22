@@ -6,4 +6,5 @@
 ![303](https://github.com/invpe/XYN3/assets/106522950/647f6c2f-c3d8-44a3-9d96-64638e91d282)
 
 # XYN3
-XYNapse3 OGL Engine i have created somewhere around 2011.
+XYNapse3 OGL Engine/Renderer i have created somewhere around 2011.
+Map building made with Radiant (BSP).
