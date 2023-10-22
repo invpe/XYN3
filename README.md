@@ -7,4 +7,4 @@
 
 # XYN3
 XYNapse3 OGL Engine/Renderer i have created somewhere around 2011.
-Map building made with Radiant (BSP).
+Map building made with Radiant (BSP), this is my Time Travel repo :-)
